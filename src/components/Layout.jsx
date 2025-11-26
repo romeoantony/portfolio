@@ -36,13 +36,13 @@ const Layout = ({ children }) => {
                         © {new Date().getFullYear()} Portfolio. All rights reserved.
                     </p>
                     <div className="flex items-center gap-4">
-                        <a href="#" className="text-gray-500 hover:text-indigo-600 dark:text-gray-400 dark:hover:text-indigo-400 transition-colors">
+                        <a href="https://github.com/romeoantony" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-indigo-600 dark:text-gray-400 dark:hover:text-indigo-400 transition-colors">
                             <Github size={20} />
                         </a>
-                        <a href="#" className="text-gray-500 hover:text-indigo-600 dark:text-gray-400 dark:hover:text-indigo-400 transition-colors">
+                        <a href="https://www.linkedin.com/in/akshayantony/" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-indigo-600 dark:text-gray-400 dark:hover:text-indigo-400 transition-colors">
                             <Linkedin size={20} />
                         </a>
-                        <a href="#" className="text-gray-500 hover:text-indigo-600 dark:text-gray-400 dark:hover:text-indigo-400 transition-colors">
+                        <a href="mailto:romeoantony1999@gmail.com" className="text-gray-500 hover:text-indigo-600 dark:text-gray-400 dark:hover:text-indigo-400 transition-colors">
                             <Mail size={20} />
                         </a>
                     </div>
