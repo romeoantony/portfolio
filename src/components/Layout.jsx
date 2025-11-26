@@ -11,7 +11,7 @@ const Layout = ({ children }) => {
             <header className="sticky top-0 z-50 backdrop-blur-md bg-white/70 dark:bg-gray-950/70 border-b border-gray-200 dark:border-gray-800">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
                     <div className="text-xl font-bold tracking-tight">
-                        <span className="text-indigo-600 dark:text-indigo-400">Portfolio</span>
+                        <span className="text-indigo-600 dark:text-indigo-400">Akshay Antony</span>
                     </div>
 
                     <nav className="flex items-center gap-6">
