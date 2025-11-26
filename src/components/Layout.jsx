@@ -33,7 +33,7 @@ const Layout = ({ children }) => {
             <footer className="border-t border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 py-8 mt-auto">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-4">
                     <p className="text-sm text-gray-500 dark:text-gray-400">
-                        © {new Date().getFullYear()} Portfolio. All rights reserved.
+                        © {new Date().getFullYear()} Akshay Antony. All rights reserved.
                     </p>
                     <div className="flex items-center gap-4">
                         <a href="https://github.com/romeoantony" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-indigo-600 dark:text-gray-400 dark:hover:text-indigo-400 transition-colors">
